@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '47318'
     url: http://www.gutenberg.org/2009/agents/47318
     wikipedia: https://fr.wikipedia.org/wiki/Jean_%C3%89mile_Laboureur
+covers:
+- cover_type: archival
+  image_path: 64949-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -31,6 +34,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Giraudoux
     - https://en.wikipedia.org/wiki/Jean_Giraudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64949#Promenade-avec-Gabrielle-Manuscrit-de-Jean-Giraudoux-illustre-de-seize-lithographies-en-coule_
 gutenberg_issued: '2021-03-28'
 gutenberg_type: Text
 identifiers:
