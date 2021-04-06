@@ -1,0 +1,53 @@
+_repo: Promenade-avec-Gabrielle-Manuscrit-de-Jean-Giraudoux-illustre-de-seize-lithographies-en-coule__64949
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Laboureur, Jean Emile
+    aliases:
+    - Laboureur, J. E. (Jean Emile)
+    - Laboureur, Emile
+    - Laboureur, Jean Émile
+    - Laboureur, Jean-Émile
+    - Laboureur, Jean-Emile
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '47318'
+    url: http://www.gutenberg.org/2009/agents/47318
+    wikipedia: https://fr.wikipedia.org/wiki/Jean_%C3%89mile_Laboureur
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    aliases:
+    - Giradoux, Jean
+    - Cordelier, Maurice
+    - Giraudoux, Hippolyte Jean
+    - Andouard
+    - Maniere, J.-E.
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Giraudoux
+    - https://en.wikipedia.org/wiki/Jean_Giraudoux
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64949'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Automobile travel -- Fiction'
+- !lcsh 'Summer -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- GITenberg
+title: 'Promenade avec Gabrielle
+
+  Manuscrit de Jean Giraudoux illustré de seize lithographies en couleur par J.-E.
+  Laboureur'
+url: http://www.gutenberg.org/ebooks/64949
